@@ -92,7 +92,6 @@ fun AppNavigation() {
     }
 }
 
-// FUNCIÓN DE EXTENSIÓN PARA EL GRAFO ANIDADO
 fun NavGraphBuilder.orderFlowGraph(navController: NavController) {
     navigation(
         // La navegación a OrderScreen desde HomeScreen seguirá funcionando
